@@ -6,3 +6,8 @@ The file "TextAdventure.py" is a text adventure game.  When a user runs it shoul
 If you have other rules or information for the user - enter it here.
 
 Working on branch B.
+
+To do:
+1. Add some puzzles
+2. Add fights
+3. Add inventory
